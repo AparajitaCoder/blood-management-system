@@ -1,4 +1,4 @@
-# blood-management-system
+# CI CRUD Application (Blood Management System)
 
 Simple CRUD application on codeigniter. To know more about the CI read this https://codeigniter.com/docs.
 
